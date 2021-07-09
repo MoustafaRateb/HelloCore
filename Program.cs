@@ -7,6 +7,7 @@ namespace HelloCore
         static void Main(string[] args)
         {
             Console.WriteLine("Hello From Core!");
+            Console.WriteLine("Test auto build");
         }
     }
 }
